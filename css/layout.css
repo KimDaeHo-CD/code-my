@@ -8,4 +8,7 @@ header {
 header .gnb ul {
   display: flex;
   justify-content: space-between;
+  gap: 20px;
+  font-size: 30px;
+  list-style: none;
 }

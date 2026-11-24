@@ -1,1 +1,1 @@
-body{font-family:"Pretendard",sans-serif}header{display:flex}header .gnb ul{display:flex;justify-content:space-between}
+body{font-family:"Pretendard",sans-serif}header{display:flex}header .gnb ul{display:flex;justify-content:space-between;gap:20px;font-size:30px;list-style:none}
