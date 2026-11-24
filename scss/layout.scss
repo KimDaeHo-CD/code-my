@@ -1,0 +1,12 @@
+body {
+  font-family: "Pretendard", sans-serif;
+}
+header {
+  display: flex;
+  .gnb {
+    ul {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}
